@@ -1,0 +1,81 @@
+{
+    "response": {
+        "type": {
+            "key": "/type/edition"
+        },
+        "title": "The Hobbit",
+        "authors": [
+            {
+                "key": "/authors/OL26320A"
+            }
+        ],
+        "publish_date": "2008",
+        "source_records": [
+            "amazon:0007270615",
+            "ia:hobbitortherebac0000tolk_b9p5",
+            "bwb:9780007270613",
+            "promise:bwb_daily_pallets_2021-07-13"
+        ],
+        "number_of_pages": 400,
+        "publishers": [
+            "HarperCollins Publishers"
+        ],
+        "physical_format": "paperback",
+        "full_title": "The Hobbit",
+        "covers": [
+            12451498
+        ],
+        "works": [
+            {
+                "key": "/works/OL262758W"
+            }
+        ],
+        "key": "/books/OL31834369M",
+        "identifiers": {
+            "goodreads": [
+                "59850892"
+            ]
+        },
+        "classifications": {},
+        "edition_name": "paperback edition (4)",
+        "description": "The great modern classic and prelude to The Lord of the Rings, illustrated by Alan Lee\r\n\r\nSmaug certainly looked fast asleep, when Bilbo peeped once more from the entrance. He was just about to step out on to the floor when he caught a sudden thin ray of red from under the drooping lid of Smaug's left eye. He was only pretending to be asleep! He was watching the tunnel entrance ...\r\n\r\nWhisked away from his comfortable, unambitious life in his hobbit-hole in Bag End by Gandalf the wizard and a company of dwarves, Bilbo Baggins finds himself caught up in a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon. Although quite reluctant to take part in this quest, Bilbo surprises even himself by his resourcefulness and his skill as a burglar! \r\n--back cover",
+        "pagination": "vii, 387p.",
+        "languages": [
+            {
+                "key": "/languages/eng"
+            }
+        ],
+        "publish_places": [
+            "London"
+        ],
+        "subtitle": "or There and Back Again",
+        "copyright_date": "1997",
+        "ocaid": "hobbitortherebac0000tolk_b9p5",
+        "isbn_10": [
+            "0007270615"
+        ],
+        "isbn_13": [
+            "9780007270613"
+        ],
+        "oclc_numbers": [
+            "1023251351"
+        ],
+        "lc_classifications": [
+            "PR6039.O33 H6 2008",
+            "PR6039.O32"
+        ],
+        "local_id": [
+            "urn:bwbsku:O7-BTW-406"
+        ],
+        "latest_revision": 10,
+        "revision": 10,
+        "created": {
+            "type": "/type/datetime",
+            "value": "2020-12-29T16:20:35.720173"
+        },
+        "last_modified": {
+            "type": "/type/datetime",
+            "value": "2022-12-08T04:55:41.515544"
+        }
+    }
+}

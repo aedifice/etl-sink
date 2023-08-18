@@ -1,0 +1,1 @@
+docker run -it --rm -p 3514:3514 -v $(pwd)/script/dropin_data:/app/dropin_data etl_sink
